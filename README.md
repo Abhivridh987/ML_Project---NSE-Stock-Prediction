@@ -1,0 +1,1 @@
+# This is a Machine Learning Model that uses Linear Regression Model to predict the next day's NSE closing value. It analyses 2005-2025 NSE Historical Data and various other terms to analyse the NSE stock behaviour
